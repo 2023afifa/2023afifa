@@ -23,3 +23,14 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2023afifa&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2023afifa&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2023afifa&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2023afifa&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2023afifa&theme=github_dark&utcOffset=8)
+
