@@ -18,8 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2023afifa&show_icons=true&locale=en&layout=compact" alt="2023afifa" /></p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2023afifa&theme=github_dark)
 
