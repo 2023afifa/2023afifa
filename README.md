@@ -18,11 +18,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2023afifa&show_icons=true&locale=en&layout=compact" alt="2023afifa" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=2023afifa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed" alt="2023afifa" /></p>
-
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2023afifa&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2023afifa&theme=github_dark&utcOffset=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2023afifa&theme=github_dark)
 
@@ -30,7 +31,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2023afifa&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2023afifa&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2023afifa&theme=github_dark&utcOffset=8)
 
