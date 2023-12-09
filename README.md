@@ -18,7 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2023afifa&show_icons=true&locale=en" alt="2023afifa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2023afifa&" alt="2023afifa" /></p>
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 
