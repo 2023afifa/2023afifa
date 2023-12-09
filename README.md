@@ -1,5 +1,5 @@
 ![MasterHead](https://i.ibb.co/b2qLkMQ/Black-And-Gold-Elegant-Business-Name-Facebook-Cover.png)
-<h1 align="center">Hi 👋, I'm Afifa</h1>
+<h1 align="center">Hello Everyone, I'm Afifa</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/kMWSCPK/gitcover.jpg">
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **2023afifa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -19,4 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2023afifa&show_icons=true&locale=en" alt="2023afifa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2023afifa&" alt="2023afifa" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 
