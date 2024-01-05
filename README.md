@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/b2qLkMQ/Black-And-Gold-Elegant-Business-Name-Facebook-Cover.png)
 <h1 align="center">WELCOME</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/kMWSCPK/gitcover.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2023afifa&label=Profile%20views&color=0e75b6&style=flat" alt="2023afifa" /> </p>
