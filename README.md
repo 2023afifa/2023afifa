@@ -16,7 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=2023afifa&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
