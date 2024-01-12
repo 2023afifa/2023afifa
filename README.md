@@ -17,6 +17,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2023afifa&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=2023afifa&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2023afifa&theme=github_dark)
